@@ -1,7 +1,7 @@
 {
-    "name": "fogs/tagging-bundle",
-    "description": "Tag any entity in your Symfony2 project.",
-    "homepage": "http://github.com/fogs/tagging-bundle",
+    "name": "bluntelk/tagging-bundle",
+    "description": "Tag any entity in your Symfony3 project.",
+    "homepage": "http://github.com/bluntelk/tagging-bundle",
     "license": "MIT",
     "type": "library",
     "autoload": {
@@ -10,7 +10,7 @@
         }
     },
     "require": {
-        "php": ">=5.4",
+        "php": ">=7.2",
         "fpn/tag-bundle": "@dev"
     },
     "config": {
